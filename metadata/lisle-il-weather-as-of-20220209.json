@@ -1,0 +1,15 @@
+{
+    "name": "Lisle Weather NFT",
+    "description": "Lisle Weather NFT",
+    "image": "https://ipfs.io/ipfs/QmS5qYTx6F4jo44E6ZBtz5whvbX4nv4xh8K22CzEp9QMYX",
+    "attributes": [
+        {
+            "trait_type": "Date Type",
+            "value": "daily"
+        },
+        {
+            "trait_type": "Time",
+            "value": "2022-02-09"
+        }
+    ]
+}
